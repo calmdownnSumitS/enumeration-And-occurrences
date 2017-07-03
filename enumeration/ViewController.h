@@ -9,7 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UITextField *textot;
+@property (weak, nonatomic) IBOutlet UITextField *finditot;
 
+- (IBAction)buttonot:(id)sender;
 
 @end
 
