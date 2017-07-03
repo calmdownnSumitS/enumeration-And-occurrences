@@ -14,5 +14,7 @@
 
 - (IBAction)buttonot:(id)sender;
 
+- (IBAction)buttonot2:(id)sender;
+
 @end
 
